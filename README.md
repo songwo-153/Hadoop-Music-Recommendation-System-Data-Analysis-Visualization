@@ -2,7 +2,7 @@
 基于hadoop音乐推荐系统数据分析可视化，基于大数据技术的音乐推荐系统数据分析可视化，采用Python，Django，mysql，hadoop，spark，hive，hdfs，vue，Echarts，智能推荐算法。
 
 
-## 源码获取（点击）：![基于大数据技术的音乐推荐系统源码]([https://github.com/user-att基于chments/assets/cf6873c5-57c4-4099-81fe-9832f4e4a29d](https://download.csdn.net/download/weixin_46115961/90708190?spm=1001.2014.3001.5503))
+## 源码获取（学习交流：+vx：18484646674 或+QQ：2474345497）：[基于大数据技术的音乐推荐系统数据分析可视化源码](https://download.csdn.net/download/weixin_46115961/90708190?spm=1001.2014.3001.5503)
 
 
 ## 开发工具和实现技术
@@ -23,4 +23,4 @@ Pycharm, Python3.7，Django框架，Hadoop，Spark，Hive，spider爬虫，Mysql
 ![31f45eaacda6e4ae4e024c83962c1a6](https://github.com/user-attachments/assets/cf6873c5-57c4-4099-81fe-9832f4e4a29d)
 
 
-## 源码获取（点击）：![基于大数据技术的音乐推荐系统源码]([https://github.com/user-att基于chments/assets/cf6873c5-57c4-4099-81fe-9832f4e4a29d](https://download.csdn.net/download/weixin_46115961/90708190?spm=1001.2014.3001.5503))
+## 源码获取（学习交流：+vx：18484646674 或+QQ：2474345497）：[基于大数据技术的音乐推荐系统数据分析可视化源码](https://download.csdn.net/download/weixin_46115961/90708190?spm=1001.2014.3001.5503)
